@@ -643,7 +643,7 @@ export default function HomeMainComponent() {
     <br />
     <br />
   </div>
-          <h2 className=" text-2xl md:text-4xl lg:text-6xl text-center font-neu mb-2">Diensten die wij aanbieden</h2>
+          <h2 className=" text-2xl md:text-4xl lg:text-6xl text-center font-neu mb-2">Hoe kunnen wij u helpen?</h2>
           {/* <h2 className=" text-2xl md:text-4xl lg:text-6xl text-center font-neu mb-2">conversation</h2> */}
           <p className=" text-center">Neem contact met ons op om nieuwe product ideeën </p>
           <p className=" text-center">en zakelijke mogelijkheden te</p>
