@@ -573,7 +573,7 @@ export default function HomeMainComponent() {
   <button className=" hover:bg-[#B1B2FF]  hover:scale-110  duration-500 drop-shadow-lg bg-green-200 rounded-lg p-4 bg-[#FAF3F0] ">
   <img className="hover:animate-pulse transform transition-all " src={process2}  />
     <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">2. UI/UX Design</h2>
-    <p className="text-center">onze éérste en belangrijkste prioriteit is het verzamelen van uw vereisten, middelen en informatie om ons project te kunnen beginnen.</p>
+    <p className="text-center">Onze éérste en belangrijkste prioriteit is het verzamelen van uw vereisten, middelen en informatie om ons project te kunnen beginnen.</p>
   </button>
 
     {/* Box 3 */}
@@ -611,7 +611,7 @@ export default function HomeMainComponent() {
     <div className="inline-block">
     <img className="hover:animate-pulse transform transition-all " src={process6} />
     <div className="  ">
-        <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">6. starten</h2>
+        <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">6. Starten</h2>
         <h2 className="text-1xl text-center mb-3 mt-3 ">Na de proefperiode en het volgen van alle processen is uw app klaar om te starten in de App Store of Play Store.</h2>
     </div>
     </div>  
