@@ -561,8 +561,8 @@ export default function HomeMainComponent() {
   
     <img className="hover:animate-pulse transform transition-all " src={process1} />
     <div className="  ">
-        <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">1. Verzameling van behoeften</h2>
-        <h2 className="text-1xl text-center mb-3 mt-3 ">We volgen de eerste en belangrijkste prioriteit van het amelen van vereisten, middelen en informatie om ons project te starten.</h2>
+        <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">1. Verzamelen van behoeften</h2>
+        <h2 className="text-1xl text-center mb-3 mt-3 ">We volgen de eerste en belangrijkste prioriteit van het verzamelen van vereisten, middelen en informatie om ons project te starten.</h2>
         
     </div>
     
@@ -643,7 +643,7 @@ export default function HomeMainComponent() {
     <br />
     <br />
   </div>
-          <h2 className=" text-2xl md:text-4xl lg:text-6xl text-center font-neu mb-2">Diensten die wij aandieden</h2>
+          <h2 className=" text-2xl md:text-4xl lg:text-6xl text-center font-neu mb-2">Diensten die wij aanbieden</h2>
           {/* <h2 className=" text-2xl md:text-4xl lg:text-6xl text-center font-neu mb-2">conversation</h2> */}
           <p className=" text-center">Neem contact met ons op om nieuwe product ideeën </p>
           <p className=" text-center">en zakelijke mogelijkheden te</p>
