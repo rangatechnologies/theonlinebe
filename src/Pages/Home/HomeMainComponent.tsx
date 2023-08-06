@@ -601,7 +601,7 @@ export default function HomeMainComponent() {
     <img className="hover:animate-pulse transform transition-all " src={process5} />
     <div className="  ">
         <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">5. Kwaliteitsverzekering</h2>
-        <h2 className="text-1xl text-center mb-3 mt-3 ">Hyperlink waardeert kwaliteit en biedt een 100% bugvrije applicatie zonder compromissen.</h2>
+        <h2 className="text-1xl text-center mb-3 mt-3 ">Wij bieden een 100% “Bug free” applicatie zonder verdere fouten en haperingen.</h2>
     </div>
     </div>  
   </button>
@@ -611,7 +611,7 @@ export default function HomeMainComponent() {
     <div className="inline-block">
     <img className="hover:animate-pulse transform transition-all " src={process6} />
     <div className="  ">
-        <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">6. Inzet</h2>
+        <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">6. starten</h2>
         <h2 className="text-1xl text-center mb-3 mt-3 ">Na de proefperiode en het volgen van alle processen is uw app klaar om te starten in de App Store of Play Store.</h2>
     </div>
     </div>  
@@ -626,7 +626,7 @@ export default function HomeMainComponent() {
     <img className="hover:animate-pulse transform transition-all " src={process7} />
     <div className="  ">
         <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">7. Ondersteuning & Onderhoud</h2>
-        <h2 className="text-1xl text-center mb-3 mt-3 ">Ons bedrijf biedt u alle ondersteuning en het team staat na de implementatie altijd klaar om elke vraag te beantwoorden.</h2>
+        <h2 className="text-1xl text-center mb-3 mt-3 ">Ons bedrijf biedt u alle ondersteuning en het team staat na de start altijd klaar om elke vraag te beantwoorden.</h2>
     </div>
     </div>  
   </button>
@@ -645,9 +645,9 @@ export default function HomeMainComponent() {
   </div>
           <h2 className=" text-2xl md:text-4xl lg:text-6xl text-center font-neu mb-2">Diensten die wij aandieden</h2>
           {/* <h2 className=" text-2xl md:text-4xl lg:text-6xl text-center font-neu mb-2">conversation</h2> */}
-          <p className=" text-center">Neem contact met ons op om nieuwe te bespreken</p>
-          <p className=" text-center">productideeën en zaken</p>
-          <p className=" text-center">mogelijkheden.</p>
+          <p className=" text-center">Neem contact met ons op om nieuwe product ideeën </p>
+          <p className=" text-center">en zakelijke mogelijkheden te</p>
+          <p className=" text-center">bespreken.</p>
           
           </div>
           
@@ -730,7 +730,7 @@ export default function HomeMainComponent() {
       <h2 className='mb-4'>Wat wil je bereiken?</h2>
 
       <select className='w-3/4 lg:w-1/2 p-2 hover:animate-pulse hover:text-2xl transition-all duration-300 rounded-md focus:outline-none focus:border-indigo-500' id="country" name="country">
-      <option value="australia">Welke diensten heb je nodig?</option>
+      <option value="australia">Web Development</option>
       <option value="canada">Mobiele APP-ontwikkeling</option>
       <option value="usa">Blockchain-ontwikkeling</option>
     </select>
