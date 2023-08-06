@@ -504,7 +504,7 @@ export default function HomeMainComponent() {
 {/* Service we offer */}
 <div className="container mx-auto py-8 bg-[#ffffff]">
     <br />
-    <h1 className=" text-4xl text-center font-sans font-bold ">Diensten Die Wij Aanbiede</h1>
+    <h1 className=" text-4xl text-center font-sans font-bold ">Diensten Die Wij Aanbieden</h1>
     <br />
 
 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3  gap-12">
@@ -550,7 +550,7 @@ export default function HomeMainComponent() {
 {/* Process we follow */}
 <div className="container mx-auto py-8 bg-[#ffffff]">
     <br />
-    <h1 className=" text-4xl text-center font-sans font-bold ">Proces Dat Wij Volgen</h1>
+    <h1 className=" text-4xl text-center font-sans font-bold ">Onze werkwijze</h1>
     <br />
 
 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4  gap-12">
@@ -561,8 +561,8 @@ export default function HomeMainComponent() {
   
     <img className="hover:animate-pulse transform transition-all " src={process1} />
     <div className="  ">
-        <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">1. Onze Werkwijze</h2>
-        <h2 className="text-1xl text-center mb-3 mt-3 ">We volgen de eerste en belangrijkste prioriteit van het verzamelen van vereisten, middelen en informatie om ons project te starten.</h2>
+        <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">1. Verzameling van behoeften</h2>
+        <h2 className="text-1xl text-center mb-3 mt-3 ">We volgen de eerste en belangrijkste prioriteit van het amelen van vereisten, middelen en informatie om ons project te starten.</h2>
         
     </div>
     
@@ -572,7 +572,7 @@ export default function HomeMainComponent() {
   {/* Box 2 */}
   <button className=" hover:bg-[#B1B2FF]  hover:scale-110  duration-500 drop-shadow-lg bg-green-200 rounded-lg p-4 bg-[#FAF3F0] ">
   <img className="hover:animate-pulse transform transition-all " src={process2}  />
-    <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">2. Verzameling van behoeften</h2>
+    <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">2. UI/UX Design</h2>
     <p className="text-center">onze éérste en belangrijkste prioriteit is het verzamelen van uw vereisten, middelen en informatie om ons project te kunnen beginnen.</p>
   </button>
 

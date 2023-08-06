@@ -80,7 +80,7 @@ function App() {
           <div className='flex  flex-col text-center items-center font-bold text-3xl'>
             
             {/* <FontAwesomeIcon icon={faTowerCell} className="h-10" /> */}
-            The Online Bee
+            The Bee Online
           </div>
 
           {/* <div className=' grid grid-cols-2 md:grid-cols-5 items-center w-fit justify-center mt-10 space-x-14 space-y-2'> */}
