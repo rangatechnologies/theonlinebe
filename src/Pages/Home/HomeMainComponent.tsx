@@ -97,7 +97,7 @@ export default function HomeMainComponent() {
       <span style={{color:'#ABEA7C'}}>Web</span><br />
       <span style={{color:'#B2D7DA'}}>Mobile App</span> <br />
       <span style={{color:'#F2E34C'}}>Blockchain</span><br />
-      <span style={{color:'white'}}>Ontwikkeling</span> 
+      <span style={{color:'white'}}>Development</span> 
       
     </div>
   );
@@ -148,7 +148,7 @@ export default function HomeMainComponent() {
                   {mainTitle}
                   {subTitle}
                   <div className="pt-3 text-colorid7e810469 font-normal">
-                    Latens ons praten:
+                    Laten we praten:
                   </div>
                   <div style={{paddingBottom: 20, paddingTop:10 }}>
                     <button onClick={() => window.open("ranganaupul@gmail.com")}  className="button button4" >
@@ -255,7 +255,7 @@ export default function HomeMainComponent() {
                   {mainTitle}
                   {subTitle}
                   <div className="pt-3 text-sm text-colorid7e810469 font-normal">
-                    Latens ons praten:
+                    Laten we praten:
                   </div>
                   <div style={{paddingBottom: 20, paddingTop:10 }}>
                     {/* <button onClick={() => window.open("branganaupul@gmail.com")}  className="button button1" >
@@ -447,7 +447,7 @@ export default function HomeMainComponent() {
         {/* Box 2 */}
         <button className="hover:bg-[#B1B2FF]  hover:scale-110  duration-500 drop-shadow-lg bg-green-200 rounded-lg p-4 bg-[#ECF2FF]">
         <img className="hover:animate-pulse transform transition-all " src={CASE2} />
-          <h2 className="mt-2 ml-2 text-xl underline text-center font-semibold mb-2">Binance snelle bot</h2>
+          <h2 className="mt-2 ml-2 text-xl underline text-center font-semibold mb-2">Binance Fast Bot</h2>
           <p className=" ml-2 text-center">Ontwikkel een clinet-strategie-idee op Tradingview en automatiseer die signalen op de Binance-beurs.</p>
         </button>
 
@@ -461,7 +461,7 @@ export default function HomeMainComponent() {
         {/* Box 4 */}
         <div className="hover:bg-[#B1B2FF]  hover:scale-110  duration-500 drop-shadow-lg bg-yellow-200 rounded-lg p-4 bg-[#ECF2FF]">
         <img className="hover:animate-pulse transform transition-all " src={CASE4} />
-          <h2 className="mt-2 ml-2 text-xl text-center underline font-semibold mb-2">MTF-handelsstrategie</h2>
+          <h2 className="mt-2 ml-2 text-xl text-center underline font-semibold mb-2">MTF Trading Strategy</h2>
           <p className="ml-2 text-center">Ontwikkeling van handelsstrategieën in meerdere tijdskaders op basis van het idee van de clinetstrategie.</p>
         </div>
         {/* Box 5 */}
@@ -474,8 +474,8 @@ export default function HomeMainComponent() {
         {/* Box 6 */}
         <button className="hover:bg-[#B1B2FF]  hover:scale-110  duration-500 drop-shadow-lg bg-green-200 rounded-lg p-4 bg-[#ECF2FF]">
         <img className="hover:animate-pulse transform transition-all " src={CASE6} />
-          <h2 className="mt-2 ml-2 text-xl underline text-center font-semibold mb-2">Flashlening Bot</h2>
-          <p className="ml-2 text-center">Flashloan Bot-ontwikkeling voor Uniswap en SushiSwap met behulp van leningfondsen.</p>
+          <h2 className="mt-2 ml-2 text-xl underline text-center font-semibold mb-2">Flashloan Bot</h2>
+          <p className="ml-2 text-center">Flashloan Bot-Development voor Uniswap en SushiSwap met behulp van leningfondsen.</p>
         </button>
 {/* 
 
@@ -518,7 +518,7 @@ export default function HomeMainComponent() {
     <img className="hover:animate-pulse transform transition-all " src={webDevelopment} />
     <div className="  ">
         <h2 className="text-4xl font-bold mb-3 mt-3 ">Web</h2>
-        <h2 className=" text-4xl font-bold mb-3 mt-3 ">Ontwikkeling</h2>
+        <h2 className=" text-4xl font-bold mb-3 mt-3 ">Development</h2>
     </div>
     
     </div>  
@@ -527,14 +527,14 @@ export default function HomeMainComponent() {
   {/* Box 2 */}
   <button className=" hover:bg-[#B1B2FF]  hover:scale-110  duration-500 drop-shadow-lg bg-green-200 rounded-lg p-4 bg-[#ffffff] ">
   <img className="hover:animate-pulse transform transition-all " src={mobileDevelopment}  />
-    <h2 className="text-4xl font-bold mb-3 mt-3 ">Ontwikkeling van mobiele apps</h2>
+    <h2 className="text-4xl font-bold mb-3 mt-3 ">Mobile App Development</h2>
     
   </button>
 
     {/* Box 3 */}
     <button className=" hover:bg-[#B1B2FF]  hover:scale-110  duration-500 drop-shadow-lg bg-green-200 rounded-lg p-4 bg-[#ffffff]">
     <img className="hover:animate-pulse transform transition-all " src={blockchainDevelopment} alt="" />
-    <h2 className="text-4xl font-bold mb-3 mt-3 ">Blockchain-ontwikkeling</h2>
+    <h2 className="text-4xl font-bold mb-3 mt-3 ">Blockchain Development</h2>
     
   </button>
 
@@ -561,7 +561,7 @@ export default function HomeMainComponent() {
   
     <img className="hover:animate-pulse transform transition-all " src={process1} />
     <div className="  ">
-        <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">1. Verzameling van vereisten</h2>
+        <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">1. Onze Werkwijze</h2>
         <h2 className="text-1xl text-center mb-3 mt-3 ">We volgen de eerste en belangrijkste prioriteit van het verzamelen van vereisten, middelen en informatie om ons project te starten.</h2>
         
     </div>
@@ -572,15 +572,15 @@ export default function HomeMainComponent() {
   {/* Box 2 */}
   <button className=" hover:bg-[#B1B2FF]  hover:scale-110  duration-500 drop-shadow-lg bg-green-200 rounded-lg p-4 bg-[#FAF3F0] ">
   <img className="hover:animate-pulse transform transition-all " src={process2}  />
-    <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">2. UI/UX-ontwerp</h2>
-    <p className="text-center">We creëren pakkende en charmante ontwerpen met de nieuwste ontwerptools om er een gebruiksvriendelijke ervaring van te maken.</p>
+    <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">2. Verzameling van behoeften</h2>
+    <p className="text-center">onze éérste en belangrijkste prioriteit is het verzamelen van uw vereisten, middelen en informatie om ons project te kunnen beginnen.</p>
   </button>
 
     {/* Box 3 */}
     <button className=" hover:bg-[#B1B2FF]  hover:scale-110  duration-500 drop-shadow-lg bg-green-200 rounded-lg p-4 bg-[#FAF3F0]">
     <img className="hover:animate-pulse transform transition-all " src={process3} alt="" />
     <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">3. Prototype</h2>
-    <p className="text-center">Na het ontwerpen krijgt u uw prototype, dat vooruit wordt gestuurd voor het ontwikkelingsproces van het product.</p>
+    <p className="text-center">Na het ontwerpen krijgt u uw prototype, dit zal voor het ontwikkelingsproces van het product naar u worden gestuurd.</p>
   </button>
 
   
@@ -588,7 +588,7 @@ export default function HomeMainComponent() {
     <button className=" hover:bg-[#B1B2FF]  hover:scale-110  duration-500 drop-shadow-lg bg-green-200 rounded-lg p-4 bg-[#FAF3F0]">
     <img className="hover:animate-pulse transform transition-all " src={process4} alt="" />
     <h2 className="text-1xl text-center font-bold mb-3 mt-3 ">4. Ontwikkeling</h2>
-    <p className="text-center">Ontwikkeling van mobiele applicatie/web/blockchain begon met het gebruik van de nieuwste tools en technologieën met transparantie.</p>
+    <p className="text-center">Ontwikkeling van mobiele applicatie/web/blockchain beginnen we met het gebruik van de nieuwste tools en technologieën.</p>
   </button>
 
   </div>
@@ -643,7 +643,7 @@ export default function HomeMainComponent() {
     <br />
     <br />
   </div>
-          <h2 className=" text-2xl md:text-4xl lg:text-6xl text-center font-neu mb-2">Een gesprek beginnen</h2>
+          <h2 className=" text-2xl md:text-4xl lg:text-6xl text-center font-neu mb-2">Diensten die wij aandieden</h2>
           {/* <h2 className=" text-2xl md:text-4xl lg:text-6xl text-center font-neu mb-2">conversation</h2> */}
           <p className=" text-center">Neem contact met ons op om nieuwe te bespreken</p>
           <p className=" text-center">productideeën en zaken</p>
